@@ -120,7 +120,7 @@ Frontend → API Gateway → Application Services → AI Layer → Data Layer
 
 ---
 
-## By 
+## Made By:- 
 Tejasv Singh Kondal & Divya Srivastava
 
 
