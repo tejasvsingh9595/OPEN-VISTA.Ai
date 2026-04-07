@@ -120,11 +120,8 @@ Frontend → API Gateway → Application Services → AI Layer → Data Layer
 
 ---
 
-## 👥 CerebroX Team
 
-Divya Srivastava
 Tejasv Singh Kondal 
-Ahmed Yusuf Khan
 
 
 **OpenVista AI – Know the Hard Parts. Try the Job. Choose Smarter.**
