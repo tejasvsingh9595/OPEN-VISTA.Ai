@@ -120,8 +120,9 @@ Frontend → API Gateway → Application Services → AI Layer → Data Layer
 
 ---
 
+## By 
+Tejasv Singh Kondal & Divya Srivastava
 
-Tejasv Singh Kondal 
 
 
 **OpenVista AI – Know the Hard Parts. Try the Job. Choose Smarter.**
